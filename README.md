@@ -1,9 +1,9 @@
 # SimpleMemory
 A very simple model of human memory retention
 
-```math
+$$
 E = m c^2
-```
+$$
 A simple model of memory 
 The purpose of this write-up is to design an algorithm that optimizes the learning of a collection of items. Specifically, to maximize recall with minimal effort while assuming an opportunistic study schedule.
 Notation: 
